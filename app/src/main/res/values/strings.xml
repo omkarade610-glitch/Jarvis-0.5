@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="jarvis_tagline">Neural Command Center</string>
+    <string name="phase_one_badge">Phase 1 • Design System &amp; Workspace Ready</string>
+</resources>
